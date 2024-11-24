@@ -40,10 +40,4 @@ Feel free to contribute by submitting bug reports, feature requests, or pull req
 4. Push to the branch (`git push origin feature-name`).
 5. Open a pull request.
 
-## 📜 License
-
-This project is open source and available under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
----
-
 Thank you for checking out this game! I hope you enjoy playing and challenging yourself. If you encounter any bugs or have suggestions for improvements, feel free to reach out. Have fun and good luck! 🎉
